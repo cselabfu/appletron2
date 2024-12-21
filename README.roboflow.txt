@@ -2,7 +2,7 @@
 apple - v1 2024-12-12 3:58pm
 ==============================
 
-This dataset was exported via roboflow.com on December 21, 2024 at 4:00 AM GMT
+This dataset was exported via roboflow.com on December 21, 2024 at 4:25 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 473 images.
-Apple are annotated in Florence 2 Object Detection format.
+Apple are annotated in COCO for MMDetection format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
